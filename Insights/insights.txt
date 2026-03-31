@@ -1,0 +1,31 @@
+E-COMMERCE SQL PROJECT – BUSINESS INSIGHTS
+
+1. Overall Business Performance
+The business generated strong revenue primarily driven by high-value electronics products such as laptops, smartphones, and tablets. Profit margins are healthy, indicating effective pricing and cost management strategies.
+
+2. Customer Behavior
+Customers show active purchasing behavior, with several customers placing multiple orders. This indicates early signs of customer retention and engagement.
+
+3. High-Value Customers
+A small group of customers contributes a large portion of total revenue. These high-value customers can be targeted with loyalty programs, exclusive discounts, and personalized recommendations.
+
+4. Product Performance
+Electronics products generate the highest revenue, while categories like stationery and lifestyle contribute more in terms of quantity rather than revenue. This highlights a difference between high-volume and high-value products.
+
+5. Category Insights
+Electronics is the top-performing category in terms of both sales and profit. Furniture contributes moderate revenue, while accessories and stationery support consistent lower-value transactions.
+
+6. Sales Trend
+Sales are relatively stable across the observed period, with noticeable spikes on days when high-ticket items are purchased. This suggests revenue is influenced by fewer but high-value transactions.
+
+7. Repeat Customers
+Several customers have placed more than one order, indicating good repeat purchase behavior. This presents opportunities for upselling and cross-selling.
+
+8. Profitability Analysis
+Products like laptops, smartphones, and tablets generate the highest profits. Focusing marketing and inventory strategies on these products can maximize profitability.
+
+9. Customer Segmentation
+Customers can be segmented into High, Medium, and Low value groups based on their total spending. High-value customers contribute significantly to overall revenue and should be prioritized for retention strategies.
+
+10. Growth Opportunities
+Lower-performing categories such as lifestyle and stationery can be improved by bundling them with high-performing products or offering promotional discounts to increase their sales contribution.
